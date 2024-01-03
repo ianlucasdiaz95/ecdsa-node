@@ -1,6 +1,6 @@
 ## ECDSA Node
 
-[Alchemy University](https://university.alchemy.com/) Ethereum Developer Bootcamp Week #1 Project "Blockchain Cryptography"
+### [Alchemy University](https://university.alchemy.com/) Ethereum Developer Bootcamp Week #1 Project "Blockchain Cryptography"
 
 This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
 
